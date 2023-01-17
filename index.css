@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background: #035077;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+        letter-spacing: .1em;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    background: black;
+    width: 100px;
+    height: 75px;
+    font-size: 65px;
+    color: red;
+    padding: auto auto;
+    margin-top: -15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+
+
+    
+    
+}
+
+.pointsbtn {
+    border: grey;
+    padding: auto;
+    margin-top: -50px;
+       
+}
+
+.pointsbtns {
+    border-radius: 5px;
+    border-color: white;
+    color: black;
+    background-color: transparent;
+    color: white;
+       
+}
+#reset {
+    margin-top: 15px;
+}
